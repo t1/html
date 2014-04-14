@@ -4,7 +4,7 @@
 
     <groupId>com.github.t1</groupId>
     <artifactId>html</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1-SNAPSHOT</version>
 
     <name>HTML</name>
     <description>simple writer for html source</description>
@@ -15,7 +15,7 @@
 
     <scm>
         <developerConnection>scm:git:https://github.com/t1/html</developerConnection>
-        <tag>1.0.0</tag>
+        <tag>HEAD</tag>
     </scm>
     <distributionManagement>
         <repository>
