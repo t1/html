@@ -1,5 +1,4 @@
-html
-====
+# html [![Dependency Status](https://www.versioneye.com/user/projects/53fb9440e09da383cd000674/badge.svg?style=flat)](https://www.versioneye.com/user/projects/53fb9440e09da383cd000674)
 
 Very simple writer for html source utilizing AutoClosable.
 
